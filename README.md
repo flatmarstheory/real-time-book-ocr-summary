@@ -2,8 +2,7 @@
 
 This project is a real-time computer vision + AI application that detects book covers via webcam, extracts their cover text using OCR, and then generates a short, 100-word summary using a locally hosted LLM through [Ollama](https://ollama.com/). The app features a responsive, live GUI with video feed, face privacy, and AI output.
 
-
-
+<img width="1184" height="715" alt="image" src="https://github.com/user-attachments/assets/cb5af90e-39b7-4eea-a24f-babf65cdba12" />
 
 🎥 **YouTube Demo:** [https://youtu.be/cJKqo_BKpWE](https://youtu.be/cJKqo_BKpWE)
 
